@@ -56,14 +56,3 @@ public class Calculator {
         // ... (Your existing code)
     }
 }
-Getting Started
-Prerequisites
-Java Development Kit (JDK)
-
-Clone the Repository
-git clone https://github.com/your-username/your-calculator-repo.git
-
-Run the Calculator
-cd your-calculator-repo
-javac Calculator.java
-java Calculator
